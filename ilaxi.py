@@ -6,3 +6,4 @@ def count_letters(s):
     return upper, downer
 
 print(count_letters(s))
+print(sts)
