@@ -1,4 +1,4 @@
-s = input('')
+sts = input('')
 
 def count_letters(s):
     upper = len([i for i in s if i.isupper()])
